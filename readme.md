@@ -12,5 +12,6 @@
 
 
 - Gerbil trajectory for one session of the gerbil deciding to go right after getting an audio signal
-![track_2](https://github.com/AninditaChavan/Sensory_Decision_Prediction/assets/20729102/1cb78912-325d-45d2-bb47-a557c48cfdbf)
-![track_2](https://github.com/AninditaChavan/Sensory_Decision_Prediction/assets/20729102/1a9e9fd4-1f9f-45c1-b859-c2c7a70de5f0)
+![track_2](https://github.com/AninditaChavan/Sensory_Decision_Prediction/assets/20729102/8d7ce761-60bd-4605-ba3a-d694c65929fd)
+![track_2](https://github.com/AninditaChavan/Sensory_Decision_Prediction/assets/20729102/4331d01f-8d05-4b56-9249-3ebe70f365b2)
+
