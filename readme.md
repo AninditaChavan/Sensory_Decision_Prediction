@@ -1,6 +1,6 @@
 # Current Folder Structure
-- Data: contain all the data
-- output: contain all output
+- Data: contains all the data
+- output: contains all output
 - 1_data_preprocessing.py: process csv, mp4 and h5 file to create dataset for the model
 - 2_train.py: training process
 - lstm.py: lstm model for our dataset
